@@ -337,7 +337,7 @@ width: 60%;
 
     
     width:40%;
-    border-radius: 15px;
+    border-radius: 10% ;
     margin: 0px 0px 0px 100px;
 }
 .label-e{
@@ -354,4 +354,114 @@ width: 60%;
    
     margin-left:43%;
     
+}
+.contaner-f {
+
+  
+    position: absolute;
+    width: 90%;
+    height: 60%;
+    display: flex;
+    margin:195% 10px 2px 60px;
+
+}
+.image-f {
+    width:30%;
+    height: 100%;
+    border-radius: 10% ;
+    margin-left: 3%;
+    position: absolute;
+  
+    
+}
+.image-f-b {
+    width:30%;
+    height: 100%;
+    border-radius: 10% ;
+    margin-left: 6%;
+    position: absolute;
+  
+    
+}
+.image-f-c {
+    width:30%;
+    height: 100%;
+    border-radius: 10% ;
+    margin-left: 9%;
+    position: absolute;
+  
+    
+}
+.div{
+  
+    width: 30%;
+
+
+ 
+}
+.h1{
+    margin-top: 10px;
+  
+    margin:225% 0px 2px 60px;
+    width: 94%;
+
+position: absolute;
+display: flex;
+}
+.text-f-a{
+    
+    margin-left: 5%;
+    color: black;
+
+}
+.text-f-b{
+    
+    margin-left:20%;
+    color: black;
+
+}
+.text-f-c{
+    
+    margin-left:22%;
+    color: black;
+
+}
+
+.dot{
+    height: 50px;
+    width: 50px;
+    background-color: #8f1313;
+    border-radius: 50%;
+    position: relative;
+    
+   
+}
+.wavy{
+    position: absolute;
+    margin:230% 0px;
+    width:99%;
+
+}
+.wavy-text{
+background-color: #36363e;
+    margin:241%  0px 0px;
+    position: absolute;
+    width: 99%;
+    height: 30%;
+
+display: flex;
+}
+.wavy-text-a{
+    
+    margin-left: 10%;
+}
+.wavy-text-b{
+    margin-left: 14%;
+
+
+}
+.wavy-text-c{
+    margin-left: 18%;
+
+
 }
